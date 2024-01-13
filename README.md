@@ -1,5 +1,6 @@
 # Clownsweeper
-Minesweeper but with clowns\
-2D game made with lwjgl 3 using Open GL and Open AL\
+
+A recreation and spin-off of the popular 2D game, Minesweeper, made in Java using OpenGL, LWJGL, and OpenAL.
+
 [Link to download](https://github.com/13lack13lood/Clownsweeper/releases/tag/1.0.0)\
-~~took way too much googling to make~~
+
